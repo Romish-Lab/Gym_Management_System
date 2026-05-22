@@ -14,7 +14,7 @@ A simple console-based Gym Management System built using C++ to manage trainees,
 
 ## How to Run
 ```bash
-git clone https://github.com/ayuushpokharel/gms
+git clone https://github.com/romish-lab/gym_management_system
 cd gms
 g++ main.cpp -o gms
 ./gms
