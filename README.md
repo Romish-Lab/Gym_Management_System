@@ -34,6 +34,3 @@ Password: admin123
 * trainees.txt
 * classes.txt
 
-## Author
-
-Ayush Pokharel
